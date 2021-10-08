@@ -1,0 +1,10 @@
+GMT00.XMI
+(BRAND.TXT + BRAND.KEY)
+ Binary:
+ 42 65 74 61 74 65 73 74 69 6e 67 0d 0a 0d 0a 3e
+ eb a9 c0 66 6c 98 26 5a 40 af 91 e8 dc 5b 9e 33
+ 31 8f 21 a6
+
+ Text:
+ Betatesting....>ë©Àfl˜&Z@¯‘èÜ[31!¦
+
